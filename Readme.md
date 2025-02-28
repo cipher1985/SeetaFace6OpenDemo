@@ -22,8 +22,10 @@ Part II: [Download](https://www.dropbox.com/s/d296i7efnz5evbx/face_recognizer_li
 带口罩人脸识别     | 512
 通用人脸识别（小） | 512
 
-模型名称 | 模型功能
--|-|-
+| 模型名称 | 模型功能 |
+| :-: | :-: |
+| age_predictor.csta | 年龄预测 |
+
 age_predictor.csta | 年龄预测  
 eye_state.csta | 眼睛状态检测  
 face_detector.csta | 人脸检测  
