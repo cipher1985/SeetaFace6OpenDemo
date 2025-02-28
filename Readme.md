@@ -16,28 +16,20 @@ Part I: [Download](https://www.dropbox.com/s/julk1f16riu0dyp/sf6.0_models.zip?dl
 Part II: [Download](https://www.dropbox.com/s/d296i7efnz5evbx/face_recognizer_light.csta?dl=0) ，including: `face_recognizer_light.csta`.  
 
 ### 模型说明：
-模型名称           | 特征长度
--|-|-
-通用人脸识别       | 1024
-带口罩人脸识别     | 512
-通用人脸识别（小） | 512
-
 | 模型名称 | 模型功能 |
 | :-: | :-: |
 | age_predictor.csta | 年龄预测 |
-
-age_predictor.csta | 年龄预测  
-eye_state.csta | 眼睛状态检测  
-face_detector.csta | 人脸检测  
-face_landmarker_mask_pts5.csta | 口罩5关键点定位  
-face_landmarker_pts5.csta | 人脸5关键点定位  
-face_landmarker_pts68.csta | 人脸68关键点定位  
-face_recognizer.csta | 通用场景高精度人脸识别  
-face_recognizer_light.csta | 轻量级人脸识别  
-face_recognizer_mask.csta | 带口罩人脸识别  
-fas_first.csta | 局部活体检测  
-fas_second.csta | 全局活体检测  
-gender_predictor.csta | 性别检测  
-mask_detector.csta | 口罩检测  
-pose_estimation.csta | 姿态检测  
-quality_lbn.csta | 质量检测
+| eye_state.csta | 眼睛状态检测 |
+| face_detector.csta | 人脸检测 |
+| face_landmarker_mask_pts5.csta | 口罩5关键点定位 |
+| face_landmarker_pts5.csta | 人脸5关键点定位 |
+| face_landmarker_pts68.csta | 人脸68关键点定位 |
+| face_recognizer.csta | 通用场景高精度人脸识别 |
+| face_recognizer_light.csta | 轻量级人脸识别 |
+| face_recognizer_mask.csta | 带口罩人脸识别 |
+| fas_first.csta | 局部活体检测 |
+| fas_second.csta | 全局活体检测 |
+| gender_predictor.csta | 性别检测 |
+| mask_detector.csta | 口罩检测 |
+| pose_estimation.csta | 姿态检测 |
+| quality_lbn.csta | 质量检测 |
