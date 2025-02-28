@@ -4,7 +4,7 @@
 ## 使用工具
 * [SeetaFace6OpenIndex](https://github.com/SeetaFace6Open/index) ([@SeetaFace6Open](https://github.com/SeetaFace6Open))
 
-# 模型可以官方提供的地址下载：
+# 模型可以在官方提供的地址下载：
 ### 百度网盘
 模型文件：  
 Part I: [Download](https://pan.baidu.com/s/1LlXe2-YsUxQMe-MLzhQ2Aw) code: `ngne`, including: `age_predictor.csta`, `face_landmarker_pts5.csta`, `fas_first.csta`, `pose_estimation.csta`, `eye_state.csta`, `face_landmarker_pts68.csta`, `fas_second.csta`, `quality_lbn.csta`, `face_detector.csta`, `face_recognizer.csta`, `gender_predictor.csta`, `face_landmarker_mask_pts5.csta`, `face_recognizer_mask.csta`, `mask_detector.csta`.   
