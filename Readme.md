@@ -16,6 +16,12 @@ Part I: [Download](https://www.dropbox.com/s/julk1f16riu0dyp/sf6.0_models.zip?dl
 Part II: [Download](https://www.dropbox.com/s/d296i7efnz5evbx/face_recognizer_light.csta?dl=0) ，including: `face_recognizer_light.csta`.  
 
 ### 模型说明：
+模型名称           | 网络结构       | 速度（I7-6700） | 速度（RK3399） | 特征长度
+-|-|-|-|-
+通用人脸识别       | ResNet-50      | 57ms           | 300ms         | 1024
+带口罩人脸识别     | ResNet-50      | 34ms           | 150ms         | 512
+通用人脸识别（小） | Mobile FaceNet | 9ms            | 70ms          | 512
+
 模型名称 | 模型功能
 -|-|-
 age_predictor.csta | 年龄预测  
